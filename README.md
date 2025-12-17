@@ -1,0 +1,1 @@
+# go-temp-mail-architecture
